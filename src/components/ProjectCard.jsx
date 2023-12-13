@@ -4,6 +4,7 @@ import makesure from "../assets/makesure.png";
 import eatnsplit from "../assets/eatnsplit.png";
 import reactquiz from "../assets/reactquiz.png";
 import instantpopcorns from "../assets/instantpopcorns.png";
+import financetracker from "../assets/financetracker.png";
 
 const works = [
   {
@@ -32,6 +33,13 @@ const works = [
       "A simple movie app to search for the movie online and make your watchlist. Give your own ratings and compare your ratings with that of IMDB ratings.",
     image: instantpopcorns,
     website: "https://iamkumudkhatiwada.github.io/Instant-popcorn/",
+  },
+  {
+    name: "FinanceTracker",
+    description:
+      "Keep Your watch on your Income and Expenditure. Maintain your financial resposibilites with finance tracker",
+    image: financetracker,
+    website: "https://iamkumudkhatiwada.github.io/finance-tracker/",
   },
 ];
 
